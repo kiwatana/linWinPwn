@@ -2,6 +2,11 @@
 
 ## Description
 
+This is a small modification that I made for my private use. This is not meant to be pushed to the original repo. 
+- add option not to run John automatically 
+- add format option for hashcat 
+- add other enumeration tools 
+
 linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks. The script leverages and is dependent of a number of tools including: impacket, bloodhound, crackmapexec, ldapdomaindump, lsassy, smbmap, kerbrute, adidnsdump. 
 
 ## Setup
